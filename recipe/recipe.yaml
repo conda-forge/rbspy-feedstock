@@ -1,5 +1,5 @@
 context:
-  version: "0.45.0"
+  version: "0.46.0"
 
 package:
   name: rbspy
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/rbspy/rbspy/archive/v${{ version }}.tar.gz
-  sha256: 53106397e4d388c3ce9f6a86e11467a97859e63cd10a786279df3fc3c189875b
+  sha256: 055c59b2180e7a1d192d479b9e559312fcc8100d330c9851a0b632c1f793fb4b
 
 build:
   number: 0
